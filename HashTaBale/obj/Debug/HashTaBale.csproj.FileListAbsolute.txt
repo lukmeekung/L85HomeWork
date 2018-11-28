@@ -1,0 +1,15 @@
+D:\C#\HashTaBale\HashTaBale\bin\Debug\HashTaBale.exe.config
+D:\C#\HashTaBale\HashTaBale\bin\Debug\HashTaBale.exe
+D:\C#\HashTaBale\HashTaBale\bin\Debug\HashTaBale.pdb
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale.csprojAssemblyReference.cache
+D:\C#\HashTaBale\HashTaBale\obj\Debug\MainWindow.g.cs
+D:\C#\HashTaBale\HashTaBale\obj\Debug\App.g.cs
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale_MarkupCompile.cache
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale_MarkupCompile.lref
+D:\C#\HashTaBale\HashTaBale\obj\Debug\MainWindow.baml
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale.g.resources
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale.Properties.Resources.resources
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale.csproj.GenerateResource.cache
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale.csproj.CoreCompileInputs.cache
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale.exe
+D:\C#\HashTaBale\HashTaBale\obj\Debug\HashTaBale.pdb
